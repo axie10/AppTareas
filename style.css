@@ -1,0 +1,9 @@
+#calendario {
+    
+    margin: 0 auto;
+    background-color: rgba(1, 189, 252, 0.238);
+    border: 3px solid rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
