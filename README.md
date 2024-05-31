@@ -36,16 +36,24 @@ AppTareas es un proyecto desarrollado como parte del Proyecto de Fin de FP DAW. 
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
 </p>
 
+
+
 <!-- Instrucciones de instalación -->
 ## Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/AppTareas.git
-
-2. Configura tu servidor XAMPP:
-   Coloca los archivos en la carpeta htdocs.
-   Inicia Apache y MySQL desde el panel de control de XAMPP.
-3. Importa la base de datos:
-   Abre phpMyAdmin y crea una nueva base de datos.
-   Importa el archivo database.sql incluido en el proyecto.
-```
+<ul>
+  <li>Clona el repositorio:
+    <pre><code>git clone https://github.com/tu-usuario/AppTareas.git</code></pre>
+  </li>
+  <li>Configura tu servidor XAMPP:
+    <ul>
+      <li>Coloca los archivos en la carpeta <code>htdocs</code>.</li>
+      <li>Inicia Apache y MySQL desde el panel de control de XAMPP.</li>
+    </ul>
+  </li>
+  <li>Importa la base de datos:
+    <ul>
+      <li>Abre phpMyAdmin y crea una nueva base de datos.</li>
+      <li>Importa el archivo <code>database.sql</code> incluido en el proyecto.</li>
+    </ul>
+  </li>
+</ul>
