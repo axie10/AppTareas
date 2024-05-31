@@ -6,10 +6,6 @@
   <strong>Proyecto de fin de FP DAW</strong>
 </p>
 
-<!-- Imagen de banner (opcional) -->
-<p align="center">
-  <img src="URL_DE_TU_BANNER" alt="Banner" width="600" />
-</p>
 
 <!-- Sección de descripción -->
 ## Descripción
